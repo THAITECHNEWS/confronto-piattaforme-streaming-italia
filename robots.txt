@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://THAITECHNEWS.github.io/confronto-piattaforme-streaming-italia/sitemap.xml
